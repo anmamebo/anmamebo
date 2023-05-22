@@ -6,7 +6,7 @@ Actualmente soy estudiante de cuarto curso de Ingeniería Informática en Sistem
 
 ```javascript
 const aboutMe = {
-   code: [Python, Java, PHP, Javascript, HTML, CSS],
+   code: ["Python", "Java", "PHP", "Javascript", "HTML", "CSS"],
    technologies: {
       frontEnd: {
          js: ["Angular"],

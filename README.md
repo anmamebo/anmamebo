@@ -15,6 +15,7 @@ const aboutMe = {
       backEnd: {
          php: ["Laravel"],
          java: ["Struts", "JSP"],
+         python: ["Django REST Framework"],
          js: ["Node", "Express"],
          misc: ["Bash", "Selenium"]
       },

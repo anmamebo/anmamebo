@@ -9,7 +9,7 @@ const aboutMe = {
    code: ["Python", "Java", "PHP", "Javascript", "HTML", "CSS"],
    technologies: {
       frontEnd: {
-         js: ["Angular"],
+         js: ["Angular", "React"],
          css: ["Bootstrap", "Sass"]
       },
       backEnd: {

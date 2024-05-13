@@ -10,7 +10,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["Angular", "React"],
-         css: ["Bootstrap", "Sass"]
+         css: ["Tailwind", "Bootstrap", "Sass"]
       },
       backEnd: {
          php: ["Laravel"],

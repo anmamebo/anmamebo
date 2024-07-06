@@ -2,7 +2,7 @@
 
 Sevilla, España 🌍
 
-Actualmente soy estudiante de cuarto curso de Ingeniería Informática en Sistemas de Información en la Universidad Pablo de Olavide
+Ingeniero Informático en Sistemas de Información
 
 ```javascript
 const aboutMe = {
